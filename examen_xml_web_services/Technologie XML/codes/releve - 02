@@ -1,0 +1,49 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Relevé</title>
+   </head>
+   <body>
+      <h1>Releves</h1>
+      <p>Date relevé : 2021-11-10</p>
+      <p>RIB : 011112222333344445555666</p>
+      <p>Solde 14500</p>
+      <table border="2">
+         <caption>Somme des Opérations</caption>
+         <thead>
+            <th>Type d'opération</th>
+            <th>Date</th>
+            <th>Montant</th>
+            <th>Description</th>
+         </thead>
+         <tbody>
+            <tr>
+               <td>credit</td>
+               <td>2021-01-01</td>
+               <td>9000</td>
+               <td>vers espèce</td>
+            </tr>
+            <tr>
+               <td>credit</td>
+               <td>2021-02-02</td>
+               <td>5000</td>
+               <td>vers espèce</td>
+            </tr>
+            <tr>
+               <td>debit</td>
+               <td>2021-03-02</td>
+               <td>7000</td>
+               <td>chèque guichet</td>
+            </tr>
+            <tr>
+               <td colspan="2">Total des operations de crédit</td>
+               <td colspan="2" align="center">14000</td>
+            </tr>
+            <tr>
+               <td colspan="2">Total des operations de débit</td>
+               <td colspan="2" align="center">7000</td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve>
+    <operation type="CREDIT">
+        <date>2022-12-28T20:10:37.299+01:00</date>
+        <montant>1000.0</montant>
+        <description>Vers_Espèce</description>
+    </operation>
+    <operation type="DEBIT">
+        <date>2022-12-28T20:10:37.300+01:00</date>
+        <montant>2500.0</montant>
+        <description>Chèque_Guichet</description>
+    </operation>
+    <operation type="DEBIT">
+        <date>2022-12-28T20:10:37.300+01:00</date>
+        <montant>500.0</montant>
+        <description>Prélèvement_Assurance</description>
+    </operation>
+    <operation type="CREDIT">
+        <date>2022-12-28T20:10:37.300+01:00</date>
+        <montant>5800.0</montant>
+        <description>Virement</description>
+    </operation>
+</releve>

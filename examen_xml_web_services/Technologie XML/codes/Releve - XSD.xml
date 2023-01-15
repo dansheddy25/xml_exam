@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/Baba%20Prince/Desktop/Examen%20Technologie%20XML%20-%20Web%20Services/Technologie%20XML/codes/releve.xsd" 
+    rib="011112222333344445555666">
+    <dateReleve>2021-11-10</dateReleve>
+    <solde>14500</solde>
+    <operations dateDebut="2021-01-01" dateFin="2021-01-30">
+        <operation type="credit" date="2021-01-01" montant="9000" description="vers espèce"/>
+        <operation type="credit" date="2021-02-02" montant="5000" description="vers espèce"/>
+        <operation type="debit" date="2021-03-02" montant="7000" description="chèque guichet"/>
+    </operations>
+</releve>
